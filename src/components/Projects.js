@@ -14,14 +14,14 @@ function Projects() {
       img: "/images/pixelshop.png",
       link: "https://github.com/TellYaHeadliner/Pixel-Shop-Project",
       desc: "E-commerce app with product & order management, RESTful APIs.",
-      tech: "Laravel, React, MySQL, SQL Server, VNPay"
+      tech: "Laravel, React, MySQL, VNPay"
     },
     {
-      title: "Node.js CRUD API Demo",
+      title: "Task Manager API",
       img: "/images/nodecrud.png",
-      link: "https://github.com/Nguyen-Tuan-Kiet27/NodeJS-CRUD-API",
-      desc: "Basic CRUD API with Node.js and Express, connected to MySQL database.",
-      tech: "Node.js, Express, MySQL"
+      link: "https://github.com/Nguyen-Tuan-Kiet27/Task-Manager-API",
+      desc: "Basic CRUD API with Node.js and Express, connected to MongoDB database.",
+      tech: "Node.js, Express, MongoDB"
     }
   ];
 
