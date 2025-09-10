@@ -20,7 +20,7 @@ function Projects() {
       title: "Task Manager API",
       img: "/images/nodecrud.png",
       link: "https://github.com/Nguyen-Tuan-Kiet27/Task-Manager-API",
-      desc: "Basic CRUD API with Node.js and Express, connected to MongoDB database.",
+      desc: "Basic CRUD API with Node.js and Express, connected to MongoDB.",
       tech: "Node.js, Express, MongoDB"
     }
   ];
